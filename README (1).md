@@ -1,0 +1,1 @@
+India Drought Intelligence: deploy app.py + requirements.txt + data/ on Streamlit Community Cloud. Refresh data by republishing newly generated CSV files. Existing forecasts are retrospective unless source observations are updated.
